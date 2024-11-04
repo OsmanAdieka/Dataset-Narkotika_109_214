@@ -1,4 +1,4 @@
-# Dataset Putusan Pengadilan Narkotika dan Psikotropika: Pengadilan Negeri Jakarta Utara (2022-2024)
+💊 # Dataset Putusan Pengadilan Narkotika dan Psikotropika: Pengadilan Negeri Jakarta Utara (2022-2024) 💊
 
 Dataset ini berisi koleksi 50 putusan pengadilan terkait kasus-kasus narkotika dan psikotropika di Pengadilan Negeri Jakarta Utara selama periode 2022 hingga 2024. Dataset ini bertujuan untuk memberikan gambaran mengenai penanganan kasus narkotika di pengadilan negeri dan diharapkan dapat menjadi bahan analisis untuk pemahaman yang lebih mendalam tentang pola putusan yang diambil dalam kasus-kasus narkotika di Indonesia. 📚
 
@@ -42,4 +42,4 @@ Berikut adalah beberapa contoh analisis yang dapat dilakukan:
 - **Analisis Pasal yang Sering Digunakan**: Melihat pasal-pasal yang paling sering diterapkan dalam kasus narkotika. 📑
 - **Lama Hukuman dan Jumlah Barang Bukti**: Mengkaji korelasi antara jumlah barang bukti dengan lamanya hukuman yang diberikan. ⏳
 
-Dengan menyediakan dataset ini, kami berharap dapat meningkatkan pemahaman tentang sistem peradilan dalam menangani kasus narkotika di Indonesia serta mendukung transparansi data publik dalam proses peradilan. 🙌
+Dengan menyediakan dataset ini, kami berharap dapat meningkatkan pemahaman tentang sistem peradilan dalam menangani kasus narkotika di Indonesia serta mendukung transparansi data publik dalam proses peradilan. 🐦‍🔥
